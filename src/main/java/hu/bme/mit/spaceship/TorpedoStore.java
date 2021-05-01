@@ -68,3 +68,5 @@ public class TorpedoStore {
     return this.torpedoCount;
   }
 }
+
+//ha en tudnek verseket...
